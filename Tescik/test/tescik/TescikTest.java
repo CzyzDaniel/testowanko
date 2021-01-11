@@ -54,6 +54,7 @@ public class TescikTest {
         Tescik.main(args);
         // TODO review the generated test code and remove the default call to fail.
         //fail("Wygenerowano perfidny błąd!");
+        //taasas
     }
     
 }
